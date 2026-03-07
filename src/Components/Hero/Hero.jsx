@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="hero">
       <img src={profile_img} alt="" />
       <h1>
-        <span>I'm Vijjagiri Sai Advaithananda,</span>frontend developer
+        <span>I'm Vijjagiri Sai Advaithananda,</span>Software Engineer
       </h1>
       <p>I am a Fresher</p>
       <div className="hero-action">
